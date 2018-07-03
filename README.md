@@ -1,17 +1,4 @@
 # jvm-core-learning-example
-关于Java虚拟机核心知识点学习积累的例子，是初学者及虚拟机核心知识巩固的最佳实践。
-
-## 作者与学习乐园
-源码地址:我的[GitHub地址](https://github.com/JeffLi1993 "GitHub")<br>
-作者： [李强强](http://www.bysocket.com/ "李强强")<br>
-QQ群：编程之美 365234583 [立即加入](http://jq.qq.com/?_wv=1027&k=Sx4s4U "编程之美")
-
-## 项目结构
-- src 目录<br>
-Java虚拟机核心知识点学习代码兼测试案例<br>
-- test目录(测试包名与src目录保持一致)<br>
-对应学习代码包的详细测试案例<br>
-
 包目录：
 
 	├── org.jvmcore.classloader		// 类加载器
